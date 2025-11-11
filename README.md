@@ -1,7 +1,7 @@
-# GFRC-Models
+# Model Introduction
 ## Overview
 
-This repository provides a collection of **optimized classification and regression models** developed for **generic flow regime classification** and **fluid transport prediction** in rough fracture systems.  
+This repository provides a collection of machine-learning models for flow-regime identification and nonlinear-degree classification in rough fractures.  
 The models are built using **mechanism-enhanced machine learning (ME-ML)**, integrating physical mechanisms from **fluid flow theory** and **fracture morphology**.
 
 ---
